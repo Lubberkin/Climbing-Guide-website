@@ -1,0 +1,86 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background: rgb(115, 200, 172);
+    color: rgb(7, 6, 6);
+    font-size: 25px; }
+    
+.header > h1 {
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    }
+
+.author {
+    padding: 1px;
+    text-align: center;
+    background: rgb(115, 200, 172);
+    font-size: 20px;}
+
+.nav_bar {
+    text-align: center;
+    overflow: hidden;
+    background-color: rgb(229, 241, 97);
+    font-size: 20px;
+    
+}
+.nav_bar a {
+    display:inline-block;
+    color: rgb(7, 6, 6);
+    padding: 15px;
+}
+.nav_bar a:hover {
+    background-color:rgb(115, 200, 172);
+    color: black;}
+
+.header2 {
+    font-size: 25px;
+}
+
+#ultraant {
+    font-size: 25px;
+}
+.main {
+    font-size: 18px;
+}
+.image1 {
+    width: 250px;
+    border-radius: 10px;
+}
+.image2 {
+    width: 350px;
+    border-radius: 10px;
+}
+.websitelink {
+    color: rgb(115, 200, 172);
+    
+}
+.websitelink:hover {
+    color: rgb(229, 241, 97);
+}
+
+table {
+    margin-top: 12px;
+    margin-left: 360px;
+    text-align: center;
+    width: 50%;
+}
+table, td{
+    border: 2px solid black;
+    font-size: 18px;
+    color: black;
+}
+table, td a{
+    color: black;
+    text-decoration: none;
+}
+td a:hover{
+    color: rgb(115, 200, 172);
+    
+}
+
+.red {
+    color: red;
+}
+
+
